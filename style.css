@@ -5,3 +5,14 @@ header{
    top: 0;
    position: fixed;
 }
+#titulo{
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+}
+#minha_foto{
+width: 400px;
+}
+#espacamento{
+   height: 100px;
+}
