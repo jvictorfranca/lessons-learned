@@ -1,13 +1,37 @@
 body {
   background-color: rgb(253, 251, 251);
   color: rgb(156, 102, 0);
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 20px;
+  line-height: 30px;
 }
 
 header {
   top: 0;
   position: fixed;
+}
+
+.indice {
+  list-style: none;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  width: 40%;
+  position: relative;
+}
+
+.lado-direito {
+  display: inline-block;
+  width: 40%;
+  position: relative;
+}
+
+#rodape {
+bottom: 0px;
+color: black;
+background-color: lightgray;
+text-align: center;
 }
 
 #titulo {
@@ -31,4 +55,8 @@ table , td , th {
 
 table th {
   background-color: lightgray;
+}
+
+table , nav , header , section , article , footer {
+  padding: 10px 10px 10px 10px;
 }
