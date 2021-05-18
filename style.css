@@ -20,3 +20,11 @@ header {
 #espacamento {
   height: 100px;
 }
+
+table, td, th{
+  border: solid black 1px;
+  margin: 0;
+}
+table th{
+  background-color: lightgray;
+}
