@@ -27,16 +27,16 @@ header {
   position: relative;
 }
 
-.separa{
+.separa {
   height: 100%;
   background-color: red;
 }
 
 #rodape {
-bottom: 0px;
-color: black;
-background-color: lightgray;
-text-align: center;
+  bottom: 0;
+  color: black;
+  background-color: lightgray;
+  text-align: center;
 }
 
 #titulo {
