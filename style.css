@@ -27,6 +27,11 @@ header {
   position: relative;
 }
 
+.separa{
+  height: 100%;
+  background-color: red;
+}
+
 #rodape {
 bottom: 0px;
 color: black;
